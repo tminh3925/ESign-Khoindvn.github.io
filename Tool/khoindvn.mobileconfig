@@ -3,7 +3,6 @@
 <plist version="1.0">
 <dict>
 	<key>PayloadConfirmedBy</key>
-	<string>khoindvn.eu.org</string>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -22,7 +21,7 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>Chặn thu hồi ( BolockAds ) ✅</string>
+			<string>Chặn thu hồi Qc </string>
 			<key>PayloadIdentifier</key>
 			<string>vevrl9air2.cloudflare-gateway.com.profile</string>
 			<key>PayloadType</key>
@@ -64,7 +63,7 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>Chặn thu hồi ( No BlockAds ) ✅</string>
+			<string>Chặn thu hồi không Qc</string>
 			<key>PayloadIdentifier</key>
 			<string>khoindvn.bio.link.profile</string>
 			<key>PayloadType</key>
@@ -441,11 +440,11 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>DNS Khơindvn</string>
+	<string>DNS Tminh</string>
 	<key>PayloadIdentifier</key>
 	<string>khoindvn.cloudflare.warp.com.profile</string>
 	<key>PayloadOrganization</key>
-	<string>khoindvn</string>
+	<string>0375300228</string>
 	<key>PayloadScope</key>
 	<string>User</string>
 	<key>PayloadType</key>
